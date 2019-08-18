@@ -31,7 +31,7 @@ Our project, which is included in the category of Software Testing, is related t
 9. Ability to merge tests from remote testsuites.
 
 
-#### This GSoC 2019 Project had three phases :
+#### This GSoC 2019 Project had three goals :
 
 1. Going through the EAT workshop lab : [EAT_workshop ](https://www.dropbox.com/s/bebhyd1iz7cg1i2/EAT_WORKSHOP.odt?dl=0) .
 2. Adding the latest release of Wildfly (at the time) in EAT and using OpenShift.
